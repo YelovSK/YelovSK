@@ -6,6 +6,6 @@
 -
 .. (not) working on it
 ## Examples of work
-<img src="imgs/abc.png" width="650">
+ABC checker:<img src="imgs/abc.png" width="700">
 
-<img src="imgs/debugging.png" width="650">
+Debugger:<img src="imgs/debugging.png" width="700">
