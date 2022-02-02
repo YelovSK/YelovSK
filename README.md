@@ -6,5 +6,6 @@
 -
 .. (not) working on it
 ## Examples of work
-![abc](imgs/abc.png)
-![debugging](imgs/debugging.png)
+<img src="imgs/abc.png" width="650">
+
+<img src="imgs/debugging.png" width="650">
